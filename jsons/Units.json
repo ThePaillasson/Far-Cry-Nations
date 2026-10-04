@@ -3,7 +3,7 @@
 {
 		"name": "Royal Guard",
 		"unitType": "Gunpowder",
-    "replaces": "Infantry",
+    	"replaces": "Infantry",
 		"uniqueTo": "Kyrat",
 		"movement": 2,
 		"strength": 60,
@@ -17,5 +17,22 @@
   "civilopediaText": [
 			{"text": "Brave foreigners and fearsome soldiers who have left their families to answer the King's call. Kyrat has adopted them as her own because she knows that her best interest is in their hearts. May Pagan's light shine upon them all."}
 		]
+	},
+{
+		"name": "Mercenary",
+		"unitType": "Gunpowder",
+		"replaces": "Mechanized Infantry",
+		"uniqueTo": "Unnamed African Country",
+		"movement": 3,
+		"strength": 80,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Can build [Mine] improvements on tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},	
+	"civilopediaText": [
+			{"text": "These men answer to an ex-military commander, Oliver Tambossa. The man is a fucking chameleon. You won’t see his true colors until it’s too late!"}
+		]
+	},
   
 ]
