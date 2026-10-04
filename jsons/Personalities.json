@@ -1,37 +1,62 @@
 [
   {
     "name": "Pagan Min",
-    "production": 8,
+    "production": 2,
     "food": 4,
-    "gold": 6,
-    "science": 5,
-    "culture": 4,
+    "gold": 7,
+    "science": 3,
+    "culture": 5,
     "happiness": 3,
-    "faith": 5,
-    "military": 8,
-    "Agressive": 6,
-    "War": 6,
-    "commerce": 6,
-    "diplomacy": 5,
-    "loyal": 3,
-    "expansion": 8,
-    "DenounceWillingness": 4,
+    "faith": 6,
+    "military": 6,
+    "Agressive": 3,
+    "War": 4,
+    "commerce": 5,
+    "diplomacy": 4,
+    "loyal": 7,
+    "expansion": 4,
+    "DenounceWillingness": 2,
     "priorities": {
       "Tradition": 6,
       "Liberty": 3,
       "Honor": 4,
       "Commerce": 5,
-      "Patronage": 4,
+      "Patronage": 2,
       "Piety": 5,
-      "Rationalism": 6,
+      "Rationalism": 7,
       "Freedom": 3,
       "Autocracy": 8,
-      "Order": 7
+      "Order": 4
     }
-    "civilopediaText": [
-      {
-        "text": "Emperor Sheev Palpatine, in reality the powerful Sith Lord Darth Sidious, ruled the entire Galaxy for 23 years at the head of the Empire he proclaimed following the Galactic Republic at the end of the Clone Wars."
-      }
-    ]
+  },
+  {
+    "name": "Oliver Tambossa",
+    "production": 6,
+    "food": 4,
+    "gold": 7,
+    "science": 3,
+    "culture": 3,
+    "happiness": 3,
+    "faith": 4,
+    "military": 6,
+    "Agressive": 7,
+    "War": 6,
+    "commerce": 4,
+    "diplomacy": 4,
+    "loyal": 2,
+    "expansion": 5,
+    "DenounceWillingness": 4,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 6,
+      "Patronage": 3,
+      "Piety": 5,
+      "Rationalism": 4,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 3
+    }
   },
 ]
