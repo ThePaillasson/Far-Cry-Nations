@@ -5,7 +5,7 @@
 		"adjective": ["Kyrati"],
 		"startBias": ["Hill"],
 		"personality": "Pagan Min",
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Time",
 		
 		"startIntroPart1": "Our great and glorious leader who has risked his life and limb to bring Kyrat out of the past.",
 		"startIntroPart2": "He sacrifices everything for his adopted homeland and loves its people like his own children. May Pagan's light shine upon you all",
@@ -28,8 +28,8 @@
 		"afterPeace": "I apologize for the austerity — I sent the help home. Chances are you shot them on the way in.",
 		"tradeRequest": "Don't worry about a thing, my boy. This will soon be behind us... and we'll be off on our grand adventure. Because I... have cleared my calendar for you!",
 
-		"uniqueName": "New Order",
-	        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Resting point for Influence with City-States is increased by [10]","[-50]% City-State Influence degradation"],
+		"uniqueName": "Drug Barony",
+	        "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [25,78,181],
@@ -54,5 +54,53 @@
 			
 		],
 		 "spyNames": ["Yuma Lau", "Paul De Pleur", "Noore Najjar", "Satish Nath", "Arun", "Misra"]
+	},
+	{
+		"name": "Unnamed African Country",
+		"leaderName": "Oliver Tambossa",
+		"adjective": ["UAC"],
+		"startBias": ["Avoid [Tundra]"],
+		"personality": "Oliver Tambossa",
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Major Oliver Tambossa has parlayed his position in the military in an attempt to reunite the country. Using the remaining funds from the treasury, the major paid off key leaders of a number of independent militia groups, as well as disenchanted elements of the Authenticity movement that arose in the wake of the government’s collapse.",
+		"startIntroPart2": "This effectively unified their membership into a new organization ostensibly dedicated to the restoration of 'peace and security.' After winning the confidence of former MacGrudder-Powell operators, Tambossa declared the Alliance for Popular Resistance to be the legitimate successor to the former government.",
+		
+		"declaringWar": "You can't break a man the way you do a dog or a horse, the harder you beat a man, the taller he stands. To break a man's will, to break his spirit, you have to break his mind. Men have this idea that we can fight with dignity, that there's a proper way to kill someone. It's absurd, its aesthetic, we need it to endure the bloody horror of murder. You must destroy that idea, show them what a messy horrible thing it is to kill a man, and then show them that you relish in it. Shoot the wound, and then execute the wounded, burn them, take them in close combat. Destroy their preconceptions of what a man is and become their personal monster. When they fear you, you become stronger, you become better. But let's never forget, it's a display, it's a posture, like a lions roar, or a gorilla thumping at his chest. If you lose yourself in the display, if you succumb to the horror, then you become the monster. You become reduced, not more than a man, but less. And it could be fatal.",
+		"attacked": "You can't break a man the way you do a dog or a horse, the harder you beat a man, the taller he stands. To break a man's will, to break his spirit, you have to break his mind. Men have this idea that we can fight with dignity, that there's a proper way to kill someone. It's absurd, its aesthetic, we need it to endure the bloody horror of murder. You must destroy that idea, show them what a messy horrible thing it is to kill a man, and then show them that you relish in it. Shoot the wound, and then execute the wounded, burn them, take them in close combat. Destroy their preconceptions of what a man is and become their personal monster. When they fear you, you become stronger, you become better. But let's never forget, it's a display, it's a posture, like a lions roar, or a gorilla thumping at his chest. If you lose yourself in the display, if you succumb to the horror, then you become the monster. You become reduced, not more than a man, but less. And it could be fatal.",
+		"defeated": "You know, I realized something sad today. I won't be able to resist the man who comes after me the same way your men resisted me. So I'll protect your secret the only way I know how: by blasting it out the side of my head. I know you have plenty of bullets, but I'll save you this one.",
+		"introduction": "Work to Fight. Fight to Work.",
+		
+		"neutralHello": "What have we got here? Diamonds?",
+		"neutralLetsHearIt": ["What have we got here? Diamonds?"],
+		"neutralNo": ["Man, you really got the jitters."],
+		"neutralYes": ["APR is the shit now thanks to you... and thanks to *me*!"],
+
+		"hateHello": "You are always so angry, all day, everyday that is what I like about you!",
+		"hateLetsHearIt": ["Calm down, we're all friends here..."],
+		"hateNo": ["Man, you really got the jitters."],
+		"hateYes": ["All right bro, hand over the hard ware."],
+		
+		"afterPeace": "Man, you really got the jitters.",
+		"tradeRequest": "Today, you are being paid to blow things up! Tell me you do not love your job.",
+
+		"uniqueName": "Drug Barony",
+	        "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
+
+		"outerColor": [251,238,1],
+		"innerColor": [0,0,0],
+		"cities": [
+			"Mosate Selao",
+			"Sefapane",
+			"Pala",
+			"Mokuba",
+			"Dogon",
+			"Sediko",
+			"Weelgeol",
+			"Shwasana",
+			"Sepoko"
+			
+		],
+		 "spyNames": ["Addi Mbantuwe", "Leon Gakumba", "Prosper Kouassi", "Hector Voorhees", "Nick Greaves", "Anto Kankaras", "Walton Purefoy", "Joaquin Carbonell", "Arturo Quiepo", "Seth Uniya", "Samuel", "Yabek"]
 	},
 ]
