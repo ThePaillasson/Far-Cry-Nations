@@ -1,0 +1,21 @@
+[
+
+{
+		"name": "Royal Guard",
+		"unitType": "Gunpowder",
+    "replaces": "Infantry",
+		"uniqueTo": "Kyrat",
+		"movement": 2,
+		"strength": 60,
+		"cost": 355,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+    "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Mountain] tiles"]
+		"attackSound": "shot"
+	},
+  "civilopediaText": [
+			{"text": "Brave foreigners and fearsome soldiers who have left their families to answer the King's call. Kyrat has adopted them as her own because she knows that her best interest is in their hearts. May Pagan's light shine upon them all."}
+		]
+  
+]
