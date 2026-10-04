@@ -28,8 +28,9 @@
 		"afterPeace": "I apologize for the austerity — I sent the help home. Chances are you shot them on the way in.",
 		"tradeRequest": "Don't worry about a thing, my boy. This will soon be behind us... and we'll be off on our grand adventure. Because I... have cleared my calendar for you!",
 
+		"favoredReligion": "Hinduism",
 		"uniqueName": "Drug Barony",
-	        "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
+	    "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [25,78,181],
@@ -84,7 +85,8 @@
 		"afterPeace": "Man, you really got the jitters.",
 		"tradeRequest": "Today, you are being paid to blow things up! Tell me you do not love your job.",
 
-		"uniqueName": "Drug Barony",
+		"favoredReligion": "Christianity",
+		"uniqueName": "Blood Diamond",
 	        "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
 
 		"outerColor": [251,238,1],
