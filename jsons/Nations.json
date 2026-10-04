@@ -30,7 +30,7 @@
 
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Drug Barony",
-	    "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
+	    "uniques": ["[+1 Gold] from every [Farm]","[+1 Gold] from every [Plantation]", "Land units may cross [Mountain] tiles after the first [Great General] is earned"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [25,78,181],
@@ -87,7 +87,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Blood Diamond",
-	        "uniques": ["[+1 Production] from every [Farm]","[+1 Production] from every [Plantation]"],
+	        "uniques": ["[+1 Gold] from every [Gems] tiles"],
 
 		"outerColor": [251,238,1],
 		"innerColor": [0,0,0],
