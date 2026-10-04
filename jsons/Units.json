@@ -28,8 +28,7 @@
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Can build [Mine] improvements on tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
-	},	
-	"civilopediaText": [
+		"civilopediaText": [
 			{"text": "These men answer to an ex-military commander, Oliver Tambossa. The man is a fucking chameleon. You won’t see his true colors until it’s too late!"}
 		]
 	},
