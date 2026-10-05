@@ -48,5 +48,18 @@
 			{"text": "These men answer to an ex-military commander, Oliver Tambossa. The man is a fucking chameleon. You won’t see his true colors until it’s too late!"}
 		]
 	},
+	{
+		"name": "FND Special Force",
+		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "Yara",
+		"movement": 2,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <vs [Armored] units>"],
+		"attackSound": "shot"
+	},
   
 ]
