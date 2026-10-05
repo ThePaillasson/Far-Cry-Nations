@@ -18,6 +18,22 @@
 		]
 	},
 	{
+		"name": "Chosen",
+		"unitType": "Gunpowder",
+		"replaces": "Paratrooper",
+		"uniqueTo": "Project at Eden's Gate",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Never appears as a Barbarian unit"],
+		"uniques": ["No Movement Cost to Pillage"]
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"text": "The Chosen are the Cult’s best soldiers and experienced in tactics with military gear. They are often found planning future operations or performing maintenance on their planes."}
+		]
+	},
+	{
 		"name": "Mercenary",
 		"unitType": "Gunpowder",
 		"replaces": "Mechanized Infantry",
