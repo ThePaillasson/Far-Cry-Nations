@@ -206,8 +206,8 @@
 		"uniqueName": "Paradise",
 	        "uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
 
-		"outerColor": [0,0,0],
-		"innerColor": [183,28,28],
+		"outerColor": [183,28,28],
+		"innerColor": [0,0,0],
 		"cities": [
 			"Esperanza",
 			"Segunda",
