@@ -171,4 +171,45 @@
 		],
 		 "spyNames": ["Addi Mbantuwe", "Leon Gakumba", "Prosper Kouassi", "Hector Voorhees", "Nick Greaves", "Anto Kankaras", "Walton Purefoy", "Joaquin Carbonell", "Arturo Quiepo", "Seth Uniya", "Samuel", "Yabek"]
 	},
+	{
+		"name": "Yara",
+		"leaderName": "Antón Castillo",
+		"adjective": ["Yaran"],
+		"startBias": ["Coast"],
+		"personality": "Antón Castillo",
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Mijo, the difference between a true Yaran and a Fake Yaran, it can be hard to see. But it's there. A True Yaran understands that loyalty to country is key to survival. Not justice. Not love. Not even family. Loyalty to a vision that looks beyond themselves.",
+		"startIntroPart2": "Fake Yarans love to be the outcasts. They are addicted to their selfish pervisions, chaos, lies. Like wild dogs. But dogs can be broken. They can serve paradise. And if a dog refuses to break, like Julio here, like Clara García, like Libertad... then we must put them down.",
+		
+		"declaringWar": "I know there are many who speak of the old revolución of '67 like a dream. That these murders were heroes. They will destroy your future. Just as they did my father's. When I look into your eyes, I see lions. Libertad. La Moral. Murderers of '67. These are lies. The truth? They are all known by the same name. Terrorista. I have a vision to rebuild Paradise. But these terroristas have made sure that the cost of paradise will be blood. Let this be Yara's last revolución. Let us claim victory to the lions!",
+		"attacked": "Balance your stance. A lion finds calm before the kill.",
+		"defeated": "Lies. You are not Clara. Yara is burning. And you don't put out fires with free elections.",
+		"introduction": "There are lions, and there are lambs. Rule, or be ruled. A Castillo must be a lion, for Yara is full of lambs.",
+		
+		"neutralHello": "I've taken a personal interest in your career.",
+		"neutralLetsHearIt": ["Our country is like this grenade. Except, it has two basic parts. Our people... and you. And you must clutch them nice and tight, or we all go 'boom'. Do you understand now? Prove it."],
+		"neutralNo": ["Yara did not elect me to do what's easy, but to do what's right."],
+		"neutralYes": ["I have caught a very big fish today, haven’t I Diego?"],
+
+		"hateHello": "When Yara becomes paradise, when I give my Viviro to America... my methods, your questons-- no one will care.",
+		"hateLetsHearIt": ["You call me Señor Presidente!"],
+		"hateNo": ["No lies at my table!"],
+		"hateYes": ["Truth or lies?"],
+		
+		"afterPeace": "I was acting... or was I?",
+		"tradeRequest": "Our country is like this grenade. Except, it has two basic parts. Our people... and you. And you must clutch them nice and tight, or we all go 'boom'. Do you understand now? Prove it.",
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "",
+	        "uniques": ["[+1 Gold] from every [Gems] tiles"],
+
+		"outerColor": [255,255,255],
+		"innerColor": [183,28,28],
+		"cities": [
+			"Esperanza"
+			
+		],
+		 "spyNames": [""]
+	},
 ]
