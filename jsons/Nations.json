@@ -61,7 +61,7 @@
 		"name": "Project at Eden's Gate",
 		"leaderName": "Joseph Seed",
 		"adjective": ["Eden's Gate"],
-		"startBias": ["Avoid [Coast]","Plain"],
+		"startBias": ["Avoid [Coast]","Plains"],
 		"personality": "Joseph Seed",
 		"preferredVictoryType": "Diplomatic",
 		
