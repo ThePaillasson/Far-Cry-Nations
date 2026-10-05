@@ -155,7 +155,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Blood Diamond",
-	        "uniques": ["[+1 Gold] from every [Gems] tiles"],
+	        "uniques": ["[+1 Gold] from every [Mine]", "[+1 Gems] from every [Mine]"],
 
 		"outerColor": [251,238,1],
 		"innerColor": [0,0,0],
