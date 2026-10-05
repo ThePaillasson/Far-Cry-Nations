@@ -57,6 +57,55 @@
 		 "spyNames": ["Yuma Lau", "Paul De Pleur", "Noore Najjar", "Satish Nath", "Arun", "Misra"]
 	},
 	{
+		"name": "Project at Eden's Gate",
+		"leaderName": "Joseph Seed",
+		"adjective": ["Eden's Gate"],
+		"startBias": ["Avoid [Coast]","Plain"],
+		"personality": "Joseph Seed",
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "I know you are in pain. The Lord giveth, and the Lord taketh, huh? But you’re not the only one to be tested… did you know that I had a wife? So beautiful, isn’t she? We were pregnant with our first child. And we were just babies ourselves, really. And I was terrified. On becoming a father. Mostly about money. She wasn’t worried. She had faith that things were going to work out. She always had faith… And then one day, she was going to go visit a friend. There was an accident… and the Lord taketh.",
+		"startIntroPart2": "And they rushed me to a hospital and put me in a room with this little pink bundle stuffed with tubes and had to be strong because my little girl was going to live. God was looking out for our daughter. And they left me in a, alone in a room with her. I just… stared… at my daughter. So helpless. So innocent… and all she had in the world was me. A nobody, from nowhere, with nothing. And in that moment I knew that God was testing me. He was laying out a path before me and all I had to do was choose. So I put my hand on my little girls head and I leaned in and I could smell. And we prayed together. Prayed for wisdom. Prayed for strength… then I knew. I heard God’s plan for me. And I took my fingers and I put them on that little plastic tube taped to her angelic face and I pinched it shut. And after a little while her legs began to kick and kick… then nothing… stillness. Release. The Lord giveth and the Lord taketh. Pain… sacrifice… these are all part of his test, and we have to prove that we can serve God no matter what he asks.",
+		
+		"declaringWar": "Everything is unfolding according to God’s plan. I am still here with you. The First Seal has been broken. The Collapse has begun. And we will take what we need. And we will preserve what we have. And we will kill all those who stand in our way. And these. The harbingers of doom will see the truth. BEGIN THE REAPING!",
+		"attacked": "God will not let you take me.",
+		"defeated": "I led us to the new world, I thought it would be glorious...I was wrong.",
+		"introduction": "You judge me. You judge us. The things that we have done… but people say… that I'm crazy, but when you wake up in the morning you look at the same news that I do. Do your eyes not fill with horror? This is the world?! This? This is the world we have built for our children? Communities being torn apart. Walls being erected. Because leaders are too impotent to act. Bullies are too addled to lead righteously. I did not ask for this. I was chosen.",
+		
+		"neutralHello": "Come to me, my CHILDREN!",
+		"neutralLetsHearIt": ["After all I've done, and after all we've been through, you've come seeking help from me? You must be truly terrified."],
+		"neutralNo": ["Sometimes, it's best to leave well enough alone."],
+		"neutralYes": ["Take your friends, my child, and go."],
+
+		"hateHello": "Forgive them, Father...They know not what they do...",
+		"hateLetsHearIt": ["...And everything became perfectly still. The Collapse is upon us, my children. God demands we save those lost souls, whether they want to be saved or not. And some will wish to harm us... Some will wish to destroy all that we have built here together. And some will betray us. And those in the outside world are blind. They do not believe. They have no faith. Sssh. But I will make them see..."],
+		"hateNo": ["A seal has been opened..."],
+		"hateYes": ["'Judge not, and you will not be judged. Condemned not, and you will not be condemned. Forgive… and you will be forgiven.' Take your friends, my child, and go."],
+		
+		"afterPeace": "I told you that God wouldn’t let you take me.",
+		"tradeRequest": "You don't know what you're doing! Only I can save you! You have to believe me!",
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Blood Diamond",
+	        "uniques": ["[+1 Gold] from every [Gems] tiles"],
+
+		"outerColor": [131,36,35],
+		"innerColor": [232,218,192],
+		"cities": [
+			"Mosate Selao",
+			"Sefapane",
+			"Pala",
+			"Mokuba",
+			"Dogon",
+			"Sediko",
+			"Weelgeol",
+			"Shwasana",
+			"Sepoko"
+			
+		],
+		 "spyNames": ["Jacob Seed", "John Seed", "Faith Seed", "Deputy Nancy", "The Cook", "Feeney", "Dmitri", "Holly Pepper", "The Judge"]
+	},
+	{
 		"name": "Unnamed African Country",
 		"leaderName": "Oliver Tambossa",
 		"adjective": ["UAC"],
