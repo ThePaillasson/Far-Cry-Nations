@@ -46,6 +46,7 @@
 			"Baghadur",
 			"Shikharpur",
 			"Pokhari Ghara",
+			"Khilana Bazaar",
 			"City of Pain",
 			"Aghori Ashram",
 			"Dhami Ashram",
@@ -93,6 +94,7 @@
 		"innerColor": [232,218,192],
 		"cities": [
 			"Fall's End",
+			"Prosperity",
 			"F.A.N.G. Center",
 			"Fort Drubman",
 			"Holmes Residence",
@@ -204,10 +206,27 @@
 		"uniqueName": "",
 	        "uniques": ["[+1 Gold] from every [Gems] tiles"],
 
-		"outerColor": [255,255,255],
+		"outerColor": [0,0,0],
 		"innerColor": [183,28,28],
 		"cities": [
-			"Esperanza"
+			"Esperanza",
+			"Segunda",
+			"Malagua",
+			"Concepción",
+			"Verdera",
+			"Maldito",
+			"Santo Domingo",
+			"Fontana Fort",
+			"Armonía",
+			"Fort Quito",
+			"Orquídea Villa",
+			"Casa Benito",
+			"Vencejo",
+			"Barrio del Príncipe",
+			"Felicidad",
+			"Yarabi",
+			"Barriga",
+			"Fort Oro",
 			
 		],
 		 "spyNames": [""]
