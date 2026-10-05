@@ -30,6 +30,36 @@
     }
   },
   {
+    "name": "Joseph Seed",
+    "production": 5,
+    "food": 5,
+    "gold": 3,
+    "science": 3,
+    "culture": 3,
+    "happiness": 5,
+    "faith": 8,
+    "military": 6,
+    "Agressive": 7,
+    "War": 6,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 8,
+    "expansion": 6,
+    "DenounceWillingness": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 4,
+      "Patronage": 6,
+      "Piety": 8,
+      "Rationalism": 4,
+      "Freedom": 5,
+      "Autocracy": 3,
+      "Order": 5
+    }
+  },
+  {
     "name": "Oliver Tambossa",
     "production": 6,
     "food": 4,
