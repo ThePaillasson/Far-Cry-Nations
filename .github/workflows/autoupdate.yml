@@ -21,14 +21,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Java
         uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: 17
+
+      - name: Optimize images
+        run: |
+          oxipng_url=$(curl -sL https://api.github.com/repos/shssoichiro/oxipng/releases/latest | grep -o "http.*x86_64-unknown-linux-gnu.tar.gz")
+          wget -O oxipng.tar.gz "$oxipng_url"
+          tar -xvzf oxipng.tar.gz
+          rm oxipng.tar.gz
+
+          oxipng_file=$(find oxipng* -type f -name oxipng | head -1)
+
+          find Images* -type f -iname "*.png" -print0 | \
+            xargs -0 -r "$oxipng_file" --opt max --strip all --alpha
+
+          rm -rf oxipng*
 
       - name: Download Unciv
         run: |
@@ -53,11 +65,8 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No atlas changes"
-            exit 0
+          else
+            git commit -m "Update Unciv texture atlas"
+            git pull --rebase origin master
+            git push
           fi
-
-          git commit -m "Update Unciv texture atlas"
-
-          git pull --rebase origin master
-
-          git push
