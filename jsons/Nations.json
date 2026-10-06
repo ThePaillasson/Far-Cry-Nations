@@ -135,7 +135,7 @@
 
 		"favoredReligion": "Islam",
 		"uniqueName": "Vaas Insanity",
-	    "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"], "Earn [50]% of killed [Military] unit's [Strength] as [Gold]", "Receive [+200]% Gold from Barbarian encampments and pillaging Cities"],
+	    "uniques": ["[+30]% Strength <vs [City-States]>", "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"]],
 
 		"outerColor": [187,49,55],
 		"innerColor": [216,126,117],
@@ -153,30 +153,30 @@
 		"personality": "Hoyt Volker",
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Ah, my rosy-cheeked new employees. I'm not going to lie, we're all here to make a buck. But it's the happiness of my people that gets me up each morning. My father, rest his soul, was a diamond miner. Got up at the crack of dawn each morning, smoked a cigarette, and down into the earth he went. For that wonderful, wonderful man, the company was God. I bring that same reverence to my humble business here. And I expect all of you to do the same.",
+		"startIntroPart2": "Now, there are only three company rules you have to follow. First, protect my product. You can fuck them boys, but be gentle. Second, kill any native on sight. And, finally, all profits go to me. I'm an understanding boss, but if you break one of these rules... I roast you in the furnace until your skin crackles like chicken. Right, enough talk. Those savages want to destroy my life's work. My pride and joy! Show them we mean business!",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I WANT IT TO BE CLEAR! THAT ANYONE - ANYONE! WHO HELPS THOSE SAVAGES OUT IN THE WOODS! WILL END UP LIKE OUR FRIENDS HERE! IS MY POINT COMING ACROSS?! YOU!!! RUN!!! POINT MADE! HAVE FUN, BOYS!",
+		"attacked": "Aw, now we'll never be married. You know, you could have joined me. Every kill would have been rewarded with money.",
+		"defeated": "I'll admit, I underestimated you. Torturing your own brother. Destroying half my organization! But, let the chips fall where they may, right? I forgive you. So, name your price. Everyone has one. You're all puppets, and we pull the strings! The system was designed to work that way!",
+		"introduction": "So, hobbies. Cooking, painting, movies, crystal meth... What are yours?",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Ah, welcome boys. Come in, come in! Take a seat.",
+		"neutralLetsHearIt": ["So, you look like you want to be in my inner circle. But, you know, I can read people. And you, you're a floater. You jump from job to job and never commit."],
+		"neutralNo": ["You want to work for me, kid, you have to follow my rules."],
+		"neutralYes": ["That's great work, kid. Here. Join me for a celebratory Cohiba."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Do you know the real secret to keeping employees happy? Fear...",
+		"hateLetsHearIt": ["See, I prefer the European recordings. The brass sections in American orchestras are too bombastic."],
+		"hateNo": ["Sorry. House rules."],
+		"hateYes": ["I've got a good feeling about you, kid."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "It is by my grace that your head isn't impaled on the antenna of my car!",
+		"tradeRequest": "I'm a hunter myself. The noblest of professions. But you know, I like to hunt real game. I can offer you travel to slave markets in Rio, Hong Kong, New York. This is a global enterprise. Globalisation is the future, bringing things from far away to me.",
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "",
-	    "uniques": [""],
+		"uniqueName": "Human trafficking",
+	    "uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]", "Receive [+200]% Gold from Barbarian encampments and pillaging Cities"],
 
 		"outerColor": [239,195,83],
 		"innerColor": [12,47,12],
