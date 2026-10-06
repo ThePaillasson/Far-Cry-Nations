@@ -134,8 +134,8 @@
 		"tradeRequest": "What kind of a god needs money, huh?",
 
 		"favoredReligion": "Islam",
-		"uniqueName": "",
-	    "uniques": [""],
+		"uniqueName": "Vaas Insanity",
+	    "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"], "Earn [50]% of killed [Military] unit's [Strength] as [Gold]", "Receive [+200]% Gold from Barbarian encampments and pillaging Cities"],
 
 		"outerColor": [187,49,55],
 		"innerColor": [216,126,117],
@@ -143,7 +143,7 @@
 			""
 			
 		],
-		 "spyNames": [""]
+		 "spyNames": ["Doug", "Benjamin", "Felipe",]
 	},
 	{
 		"name": "Privateers",
