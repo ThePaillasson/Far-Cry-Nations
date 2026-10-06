@@ -75,8 +75,8 @@
 		
 		"neutralHello": "You see, Jacutan's indigenous shamans used their craft to empower their tribe's warriors and hunters.",
 		"neutralLetsHearIt": ["I am free to do my work without interference from the outside world."],
-		"neutralNo": ["I need you in good health."],
-		"neutralYes": ["Looks to me like you indulged in your usual overzealousness."],
+		"neutralNo": ["Looks to me like you indulged in your usual overzealousness."],
+		"neutralYes": ["I need you in good health."],
 
 		"hateHello": "It's taken a long time, and many failures. But, I've been able to improve on these folk practices. A suitable test subject can access physical abilities that have been lost to humans for thousands of years.",
 		"hateLetsHearIt": ["I am free to do my work without interference from the outside world."],
