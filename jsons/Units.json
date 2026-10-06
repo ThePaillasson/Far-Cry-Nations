@@ -59,7 +59,10 @@
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
 		"uniques": ["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <vs [Armored] units>"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [
+			{"text": "Navy, Army, Air Force…. These guys have seen everything and killed more in Yara then the entire FND combined. Bunch of maladjusted assholes spoiling for a fight, this lot."}
+		]
 	},
   
 ]
