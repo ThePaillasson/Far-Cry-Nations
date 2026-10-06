@@ -63,7 +63,7 @@
 		"adjective": ["Krieger Corp."],
 		"startBias": ["Coast"],
 		"personality": "George Krieger",
-		"preferredVictoryType": "Time",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "This archipelago is the ideal location for my research. These islands are isolated from international shipping lanes, so I am free to do my work without interference from the outside world.",
 		"startIntroPart2": "This work will take time, but a measure of the future of mankind depends on the success of my research here. I will not fail my destiny.",
@@ -90,8 +90,8 @@
 		"uniqueName": "Genetic engineering",
 	    "uniques": ["[+2 Science] from every specialist [in all cities]", "When defeating a [{Land}] unit, earn [10] Gold and recruit it <with [33]% chance>"],
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"cities": [
 			"Volcano Island",
 			"Pagao",
@@ -103,6 +103,88 @@
 			
 		],
 		 "spyNames": ["Richard Crowe", "Jerry Spatzig", "Dr. Fernandez", "Harlan Doyle", "Dr. Andersen",]
+	},
+	{
+		"name": "Pirates",
+		"leaderName": "Vaas Montenegro",
+		"adjective": ["Pirate"],
+		"startBias": ["Coast"],
+		"personality": "Vaas Montenegro",
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"favoredReligion": "Islam",
+		"uniqueName": "",
+	    "uniques": [""],
+
+		"outerColor": [187,49,55],
+		"innerColor": [216,126,117],
+		"cities": [
+			""
+			
+		],
+		 "spyNames": [""]
+	},
+	{
+		"name": "Privateers",
+		"leaderName": "Hoyt Volker",
+		"adjective": ["Privateer"],
+		"startBias": ["Coast"],
+		"personality": "Hoyt Volker",
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "",
+	    "uniques": [""],
+
+		"outerColor": [239,195,83],
+		"innerColor": [12,47,12],
+		"cities": [
+			""
+			
+		],
+		 "spyNames": [""]
 	},
 	{
 		"name": "Project at Eden's Gate",
@@ -170,6 +252,47 @@
 			
 		],
 		 "spyNames": ["Jacob Seed", "John Seed", "Faith Seed", "Deputy Nancy", "The Cook", "Feeney", "Dmitri", "Holly Pepper", "The Judge"]
+	},
+	{
+		"name": "Rakyat",
+		"leaderName": "Citra Talugmai",
+		"adjective": ["Rakyat"],
+		"startBias": ["Jungle"],
+		"personality": "Citra Talugmai",
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"favoredReligion": "Islam",
+		"uniqueName": "",
+	    "uniques": [""],
+
+		"outerColor": [14,50,247],
+		"innerColor": [255,255,255],
+		"cities": [
+			""
+			
+		],
+		 "spyNames": [""]
 	},
 	{
 		"name": "Unnamed African Country",
