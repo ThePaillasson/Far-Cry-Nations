@@ -60,6 +60,36 @@
     }
   },
   {
+    "name": "Vaas Montenegro",
+    "production": 3,
+    "food": 5,
+    "gold": 7,
+    "science": 3,
+    "culture": 3,
+    "happiness": 6,
+    "faith": 2,
+    "military": 5,
+    "Agressive": 8,
+    "War": 7,
+    "commerce": 6,
+    "diplomacy": 4,
+    "loyal": 5,
+    "expansion": 6,
+    "DenounceWillingness": 2,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 4,
+      "Honor": 4,
+      "Commerce": 7,
+      "Patronage": 5,
+      "Piety": 2,
+      "Rationalism": 2,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 3
+    }
+  },
+  {
     "name": "Joseph Seed",
     "production": 5,
     "food": 5,
