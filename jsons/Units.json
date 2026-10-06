@@ -18,6 +18,20 @@
 		]
 	},
 	{
+		"name": "Trigens",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Machine Gun",
+		"uniqueTo": "Krieger Corporation",
+		"range": 1,
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 50,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Chosen",
 		"unitType": "Gunpowder",
 		"replaces": "Paratrooper",
