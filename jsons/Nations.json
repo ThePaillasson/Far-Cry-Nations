@@ -87,8 +87,8 @@
 		"tradeRequest": "I know you've had a rough day, so I'll keep this brief.",
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "",
-	    "uniques": [""],
+		"uniqueName": "Genetic engineering",
+	    "uniques": ["[+2 Science] from every specialist [in all cities]", "When defeating a [{Land}] unit, earn [10] Gold and recruit it <with [33]% chance>"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
@@ -102,7 +102,7 @@
 			"Tower Islands
 			
 		],
-		 "spyNames": [""]
+		 "spyNames": ["Richard Crowe", "Jerry Spatzig", "Dr. Fernandez", "Harlan Doyle", "Dr. Andersen",]
 	},
 	{
 		"name": "Project at Eden's Gate",
