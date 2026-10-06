@@ -29,7 +29,10 @@
 		"cost": 350,
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized Infantry",
-		"attackSound": "machinegun"
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			{"text": "Jack! Take a look into the future! Nature has failed mankind! Mere humans like you are about to be obsolete! I've only taken a few thousand years of evolution and put it into a test tube."}
+		]
 	},
 	{
 		"name": "Chosen",
