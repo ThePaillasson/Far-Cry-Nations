@@ -58,10 +58,57 @@
 		 "spyNames": ["Yuma Lau", "Paul De Pleur", "Noore Najjar", "Satish Nath", "Arun", "Misra"]
 	},
 	{
+		"name": "Krieger Corporation",
+		"leaderName": "George Krieger",
+		"adjective": ["Krieger Corp."],
+		"startBias": ["Coast"],
+		"personality": "George Krieger",
+		"preferredVictoryType": "Time",
+		
+		"startIntroPart1": "This archipelago is the ideal location for my research. These islands are isolated from international shipping lanes, so I am free to do my work without interference from the outside world.",
+		"startIntroPart2": "This work will take time, but a measure of the future of mankind depends on the success of my research here. I will not fail my destiny.",
+		
+		"declaringWar": "This work will take time, but a measure of the future of mankind depends on the success of my research here.",
+		"attacked": "I will not fail my destiny.",
+		"defeated": "He killed Crowe! He killed your leader!",
+		"introduction": "I'm Dr. Kreiger. I'm a biochemist. I've studied primitive medicine my whole career searching for a way to roll back a millennia of atrophy and decadence that's weakened humankind.",
+		
+		"neutralHello": "You see, Jacutan's indigenous shamans used their craft to empower their tribe's warriors and hunters.",
+		"neutralLetsHearIt": ["I am free to do my work without interference from the outside world."],
+		"neutralNo": ["I need you in good health."],
+		"neutralYes": ["Looks to me like you indulged in your usual overzealousness."],
+
+		"hateHello": "It's taken a long time, and many failures. But, I've been able to improve on these folk practices. A suitable test subject can access physical abilities that have been lost to humans for thousands of years.",
+		"hateLetsHearIt": ["I am free to do my work without interference from the outside world."],
+		"hateNo": ["You're just a simple boat man."],
+		"hateYes": ["You turned out to be a lucky find, but I will not tolerate any more costly disruptions."],
+		
+		"afterPeace": "You've proved to be a clever and tenacious thorn in my side. That's why you're still alive.",
+		"tradeRequest": "I know you've had a rough day, so I'll keep this brief.",
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "",
+	    "uniques": [""],
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": [
+			"Volcano Island",
+			"Pagao",
+			"Jacutan",
+			"Amulong",
+			"Cabatu",
+			"Alura",
+			"Tower Islands
+			
+		],
+		 "spyNames": [""]
+	},
+	{
 		"name": "Project at Eden's Gate",
 		"leaderName": "Joseph Seed",
 		"adjective": ["Eden's Gate"],
-		"startBias": ["Avoid [Coast]","Plains"],
+		"startBias": ["Forest"],
 		"personality": "Joseph Seed",
 		"preferredVictoryType": "Diplomatic",
 		
