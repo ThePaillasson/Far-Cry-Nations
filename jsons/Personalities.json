@@ -15,7 +15,7 @@
     "diplomacy": 4,
     "loyal": 7,
     "expansion": 4,
-    "DenounceWillingness": 2,
+    "DenounceWillingness": 3,
     "priorities": {
       "Tradition": 6,
       "Liberty": 3,
